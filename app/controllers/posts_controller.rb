@@ -20,6 +20,12 @@ class PostsController < ApplicationController
     end
   end
 
+  def edit
+  end
+
+  def destroy
+    
+  end
 
   private
 
